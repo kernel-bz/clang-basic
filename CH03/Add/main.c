@@ -1,6 +1,6 @@
 /**
     file name : Add/main.c
-    author : JungJaeJoon(rgbi3307@nate.com)
+    author : JungJaeJoon(rgbi3307@nate.com) on www.kernel.bz
     기능: 덧셈처리 프로그램
 */
 
