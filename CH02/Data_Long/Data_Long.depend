@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519813657 source:c:\clang_jjj2\ch02\data_long\main.c
+	<stdio.h>
+	<stdlib.h>
+
