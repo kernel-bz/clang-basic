@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="JJJ.Workspace">
+		<Project filename="CH00ALL/ALL/ALL.cbp" />
+		<Project filename="CH01/Hello/Hello.cbp" />
+		<Project filename="CH02/Data_Char/Data_Char.cbp" />
+		<Project filename="CH02/Data_Int/Data_Int.cbp" />
+		<Project filename="CH02/Data_Float/Data_Float.cbp" />
+		<Project filename="CH02/Data_Long/Data_Long.cbp" />
+		<Project filename="CH02/Data_Double/Data_Double.cbp" />
+		<Project filename="CH02/Data_All/Data_All.cbp" />
+		<Project filename="CH03/Add/Add.cbp" />
+		<Project filename="CH03/Minus/Minus.cbp" />
+		<Project filename="CH03/Divide/Divide.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
