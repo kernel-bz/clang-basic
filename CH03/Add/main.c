@@ -11,7 +11,7 @@ int main()
 {
     int a, b, c;
     double pi = 3.141592;
-    int r = 10;
+    int r = 20;
     double circle, area;
 
     a = 100;
