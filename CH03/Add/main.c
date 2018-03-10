@@ -1,6 +1,6 @@
 /**
     file name : Add/main.c
-    author : JungJaeJoon(rgbi3307@nate.com)
+    author : JungJaeJoon(rgbi3307@nate.com) on www.kernel.bz
     ±â´É: µ¡¼ÀÃ³¸® ÇÁ·Î±×·¥
 */
 
@@ -11,7 +11,7 @@ int main()
 {
     int a, b, c;
     double pi = 3.141592;
-    int r = 10;
+    int r = 20;
     double circle, area;
 
     a = 100;
