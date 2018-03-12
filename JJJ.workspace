@@ -12,5 +12,9 @@
 		<Project filename="CH03/Add/Add.cbp" />
 		<Project filename="CH03/Minus/Minus.cbp" />
 		<Project filename="CH03/Divide/Divide.cbp" />
+		<Project filename="CH03/Oper4/Oper4.cbp" />
+		<Project filename="CH03/Input/Input.cbp" />
+		<Project filename="CH04/Input_Output/Input_Output.cbp" />
+		<Project filename="CH04/if01/if01.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
