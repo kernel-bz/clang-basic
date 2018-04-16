@@ -16,5 +16,25 @@
 		<Project filename="CH03/Input/Input.cbp" />
 		<Project filename="CH04/Input_Output/Input_Output.cbp" />
 		<Project filename="CH04/if01/if01.cbp" />
+<<<<<<< HEAD
+=======
+		<Project filename="CH04/switch01/switch01.cbp" />
+		<Project filename="CH04/calc/calc.cbp" />
+		<Project filename="CH04/calc2/calc2.cbp" />
+		<Project filename="CH05/for01/for01.cbp" />
+		<Project filename="CH05/for02/for02.cbp" />
+		<Project filename="CH05/for03/for03.cbp" />
+		<Project filename="CH05/for04/for04.cbp" />
+		<Project filename="CH05/for05/for05.cbp" />
+		<Project filename="CH05/for06/for06.cbp" />
+		<Project filename="CH05/mod/mod.cbp" />
+		<Project filename="CH05/array01/array01.cbp" />
+		<Project filename="CH05/do_while_01/do_while_01.cbp" />
+		<Project filename="CH05/do_while_02/do_while_02.cbp" />
+		<Project filename="CH05/while_01/while_01.cbp" />
+		<Project filename="CH06/break_conti_01/break_conti_01.cbp" />
+		<Project filename="CH07/function_01/function_01.cbp" />
+		<Project filename="CH07/function_02/function_02.cbp" />
+>>>>>>> update
 	</Workspace>
 </CodeBlocks_workspace_file>
